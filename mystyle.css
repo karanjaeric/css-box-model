@@ -1,0 +1,24 @@
+.electronics {
+    background-color: magenta;
+    display: flex;
+    padding: 0;
+    list-style: none;
+
+}
+
+.electronics li {
+    /* max-width: 100px; */
+    margin-right: 50px;
+   
+
+
+}
+
+.electronics li a {
+    text-decoration: none;
+
+}
+.electronics li:hover{
+    cursor: pointer;
+    color: brown;
+}
